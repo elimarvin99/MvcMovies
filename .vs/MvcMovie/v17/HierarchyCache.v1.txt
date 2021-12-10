@@ -1,0 +1,1037 @@
+﻿++Solution 'MvcMovie' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MvcMovie.sln
+++MvcMovie
+i:{00000000-0000-0000-0000-000000000000}:MvcMovie
+++Connected Services 
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>195
+++Dependencies
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>194
+++Properties
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\properties\
+++wwwroot
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\
+++Controllers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\controllers\
+++HelloWorldController.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\controllers\helloworldcontroller.cs
+++HomeController.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\controllers\homecontroller.cs
+++MoviesController.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\controllers\moviescontroller.cs
+++Data
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\data\
+++Models
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\models\
+++ErrorViewModel.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\models\errorviewmodel.cs
+++Movie.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\models\movie.cs
+++Views
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\views\
+++HelloWorld
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\helloworld\
+++Index.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\helloworld\index.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\home\index.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\movies\index.cshtml
+++Welcome.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\helloworld\welcome.cshtml
+++Home
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\home\
+++Privacy.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\home\privacy.cshtml
+++Movies
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\movies\
+++Shared
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\shared\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\views\shared\
+++_Layout.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\_viewstart.cshtml
+++appsettings.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\appsettings.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\appsettings.json
+++Program.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:MvcMovieContext)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>915
+++Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:analyzers
+++Frameworks
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:frameworks
+++Packages
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:packages
+++launchSettings.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\properties\launchsettings.json
+++serviceDependencies.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\properties\servicedependencies.json
+++css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\css\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\js\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\unix\lib\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm\lib\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\favicon.ico
+++MvcMovieContext.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\data\mvcmoviecontext.cs
+++Create.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\movies\create.cshtml
+++Delete.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\movies\delete.cshtml
+++Details.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\movies\details.cshtml
+++Edit.cshtml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\views\movies\edit.cshtml
+++appsettings.Development.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\appsettings.development.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\appsettings.development.json
+++MessagePackAnalyzer
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.0)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>335
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>337
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>447
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>896
+++serviceDependencies.local.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\properties\servicedependencies.local.json
+++site.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\css\site.css
+++site.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\js\site.js
+++bootstrap
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\
+++jquery
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery\
+++jquery-validation
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery\license.txt
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bin
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\
+++Debug
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\
+++net6.0
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\
+++cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\
+++de
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\
+++es
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\
+++fr
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\
+++it
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\
+++ja
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\
+++ko
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\
+++pl
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\
+++pt-BR
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\
+++ref
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ref\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\ref\
+++ru
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\
+++runtimes
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\
+++tr
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\
+++zh-Hans
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\
+++dotnet-aspnet-codegenerator-design.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.build.dll
+++Microsoft.Build.Framework.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.build.framework.dll
+++Microsoft.Build.Tasks.Core.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.build.tasks.core.dll
+++Microsoft.Build.Utilities.Core.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.build.utilities.core.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.features.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++MvcMovie.deps.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\mvcmovie.deps.json
+++MvcMovie.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\mvcmovie.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ref\mvcmovie.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\ref\mvcmovie.dll
+++MvcMovie.exe
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\mvcmovie.exe
+++MvcMovie.pdb
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\mvcmovie.pdb
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.pdb
+++MvcMovie.runtimeconfig.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\mvcmovie.runtimeconfig.json
+++MvcMovie.staticwebassets.runtime.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\mvcmovie.staticwebassets.runtime.json
+++Newtonsoft.Json.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\nuget.versioning.dll
+++System.CodeDom.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.codedom.dll
+++System.Composition.AttributedModel.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.drawing.common.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Resources.Extensions.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.resources.extensions.dll
+++System.Runtime.Caching.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.runtime.caching.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\system.windows.extensions.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.scripting.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.features.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\unix\
+++win
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-x86\
+++native
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm\native\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-x64\native\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-x86\native\
+++netcoreapp3.0
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++dotnet-aspnet-codegenerator-design.exe
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+++obj
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\
+++MvcMovie.csproj.nuget.dgspec.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\mvcmovie.csproj.nuget.dgspec.json
+++MvcMovie.csproj.nuget.g.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\mvcmovie.csproj.nuget.g.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\mvcmovie.csproj.nuget.g.props
+++MvcMovie.csproj.nuget.g.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\mvcmovie.csproj.nuget.g.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\mvcmovie.csproj.nuget.g.targets
+++project.assets.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\project.assets.json
+++project.nuget.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\staticwebassets.pack.sentinel
+++scopedcss
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\apphost.exe
+++MvcMovie.AssemblyInfo.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.assemblyinfo.cs
+++MvcMovie.AssemblyInfoInputs.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.assemblyinfoinputs.cache
+++MvcMovie.assets.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.assets.cache
+++MvcMovie.csproj.AssemblyReference.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.csproj.assemblyreference.cache
+++MvcMovie.csproj.CopyComplete
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.csproj.copycomplete
+++MvcMovie.csproj.CoreCompileInputs.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.csproj.corecompileinputs.cache
+++MvcMovie.csproj.FileListAbsolute.txt
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.csproj.filelistabsolute.txt
+++MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.generatedmsbuildeditorconfig.editorconfig
+++MvcMovie.genruntimeconfig.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.genruntimeconfig.cache
+++MvcMovie.GlobalUsings.g.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.globalusings.g.cs
+++MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.mvcapplicationpartsassemblyinfo.cache
+++MvcMovie.RazorAssemblyInfo.cache
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.razorassemblyinfo.cache
+++MvcMovie.RazorAssemblyInfo.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\mvcmovie.razorassemblyinfo.cs
+++project.razor.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\staticwebassets.development.json
+++bundle
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\projectbundle\
+++MvcMovie.styles.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\bundle\mvcmovie.styles.css
+++MvcMovie.bundle.scp.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\projectbundle\mvcmovie.bundle.scp.css
+++_Layout.cshtml.rz.scp.css
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++serviceDependencies.local.json.user
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\properties\servicedependencies.local.json.user
+++Imports
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:>922
+++Sdk.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.Common.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files (x86)\microsoft sdks\typescript\4.3\build\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.EntityFrameworkCore.Design.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\.nuget\packages\microsoft.entityframeworkcore.design\6.0.0\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++04.03.05.00.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files (x86)\microsoft sdks\typescript\versions\04.03.05.00.props
+++Microsoft.NET.ILLink.Tasks.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++MvcMovie.csproj.user
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\mvcmovie.csproj.user
+++Microsoft.NET.props
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Docker.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Migrations
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\migrations\
+++20211210155739_InitialCreate.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\migrations\20211210155739_initialcreate.cs
+++MvcMovieContextModelSnapshot.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\migrations\mvcmoviecontextmodelsnapshot.cs
+++20211210155739_InitialCreate.Designer.cs
+i:{1ac81f0b-100e-45ad-8fa8-9903573fefeb}:c:\users\elima\assorted c# files\mvcmovie\mvcmovie\migrations\20211210155739_initialcreate.designer.cs
